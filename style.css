@@ -4,7 +4,7 @@
 }
 
 .container{
-    margin-bottom: 40px;
+    margin-bottom: 100px;
 }
 
 .carousel{
@@ -21,3 +21,26 @@
     text-align: center;
     box-shadow: 5px 5px 10px black;
 }
+
+#img1 {
+    padding: 0px 51px;
+}
+
+
+
+.last{
+    margin-top: 40px;
+}
+
+.size{
+    background: #fff;
+    padding: 20px;
+    box-shadow: 5px 5px 10px #ddd;
+    margin: 10px;
+    margin-left: 0;
+}
+
+#last_size{
+    width: 100%;
+}
+
