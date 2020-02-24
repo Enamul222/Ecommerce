@@ -1,0 +1,23 @@
+
+#nav_section{
+
+}
+
+.container{
+    margin-bottom: 40px;
+}
+
+.carousel{
+    padding: 10px 20px;
+}
+.buy_now{
+    background: #000000;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.card{
+
+    text-align: center;
+    box-shadow: 5px 5px 10px black;
+}
