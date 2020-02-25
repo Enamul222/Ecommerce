@@ -1,6 +1,6 @@
 
-#nav_section{
-
+#nav_section {
+    padding: 5px 130px;
 }
 
 h1{
@@ -18,6 +18,10 @@ h1{
     background: #000000;
     color: #fff;
     border-radius: 5px;
+}
+
+.hstyle{
+    ;
 }
 
 .card{
@@ -47,4 +51,17 @@ h1{
 #last_size{
     width: 100%;
 }
+
+/* subscribe */
+
+#Contact{
+    height: 300px;
+    background-color: #FEEAE9;
+}
+
+
+footer{
+    text-align: center;
+}
+
 
